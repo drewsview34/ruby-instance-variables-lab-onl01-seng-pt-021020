@@ -3,6 +3,7 @@ class Dog
     this_dogs_name = dog_name
   end
   
+  #getting method
   def name
     this_dogs_name
   end
